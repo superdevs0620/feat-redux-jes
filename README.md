@@ -43,4 +43,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-For better User Interface, check out the [Sass Documentation](https://sass-lang.com/guide/)
+For better User Interface, check out the [SCSS Documentation](https://medium.com/swlh/learn-the-scss-sass-basics-in-5-minutes-73002653b443)
