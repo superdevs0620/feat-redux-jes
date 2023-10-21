@@ -1,7 +1,7 @@
 import React from 'react'
 import {useSelector} from 'react-redux'
 import Post from './Post'
-import EditComponent from './EditComponent'
+import EditComponent from './EditComponent.jsx'
 
 const AllPost = () => {
     const posts = useSelector(state => state.postReducer)
